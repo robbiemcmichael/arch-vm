@@ -1,0 +1,3 @@
+Server = http://127.0.0.1:9129/repo/archlinux/$repo/os/$arch
+Server = http://mirror.internode.on.net/pub/archlinux/$repo/os/$arch
+Server = http://syd.mirror.rackspace.com/archlinux/$repo/os/$arch
